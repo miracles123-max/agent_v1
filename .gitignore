@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.build/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+agent/
+.venv/
+venv/
+ENV/
+
+# OS / Editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+
+# Uv / pip
+.uv/
+pip-wheel-metadata/
